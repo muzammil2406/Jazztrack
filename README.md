@@ -23,7 +23,7 @@ Tech Stack: Flask API, MySQL, React, Tailwind CSS, Python
 ![4](https://github.com/user-attachments/assets/b4fda080-0164-4ff5-b55a-ae609ffee387)
 ![5](https://github.com/user-attachments/assets/5a205220-da2a-4a0d-9c44-bf59aa6e5adf)
 ![6](https://github.com/user-attachments/assets/8802686c-8a6b-4216-a095-f7e7a8b9852a)
-![7](https://github.com/user-attachments/assets/1bd23015-8981-4675-b6a8-070765205209)
+![7](https://github.com/user-attachments/assets/f523ba8b-670f-4fae-a2fd-8bff80288fe2)
 ![8](https://github.com/user-attachments/assets/f9c2df4b-7235-459c-933f-53ef5acbeec6)
 
 
